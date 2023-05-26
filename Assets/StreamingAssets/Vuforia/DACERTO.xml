@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vuforia" size="10.000000 7.490347" />
+    <ImageTarget name="pedra" size="10.000000 6.232394" />
+    <ImageTarget name="4bb91a2bec06d5d571fb7e61a01c0daf" size="10.000000 10.042553" />
+  </Tracking>
+</QCARConfig>
